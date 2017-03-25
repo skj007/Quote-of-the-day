@@ -1,0 +1,89 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	width: 100%;
+	height: 100%;
+	background-color: #0e0e0e;
+	font-family:;
+}
+.main
+{
+	position: absolute;
+	width: 30%;
+	height: 60%;
+}
+.colorDiv
+{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin-top: 40%;
+	margin-left: 110%;
+	background-image:  url('https://pbs.twimg.com/profile_images/782474226020200448/zDo-gAo0_400x400.jpg');
+	background-size: 100% 100%;
+
+}
+.inner
+{
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: orange;
+	opacity: 0.5;
+}
+.outer
+{
+	position: absolute;
+	top: 10%;
+	left: 0%;
+	height: 30%;
+	width: 100%;
+	text-align: center;
+	color:#fff;
+}
+.quotationmark
+{
+	font-size: 7em;
+	margin-bottom: 2%;
+}
+.firstline
+{
+	font-size: 1.4em;
+	margin-bottom: 10px;
+	font-family:sans-serif;
+}
+.secondline
+{
+	font-size: 1.45em;
+	margin-bottom: 10px;
+	font-family:sans-serif;
+}
+.thirdline
+{
+	font-size: 2.1em;
+	font-family:sans-serif;
+}
+.hr1
+{
+	height: 5px;
+	width:90%;
+	background-color: #fff;
+	margin: -15% 0% 5% 5%;
+	
+}
+.hr2
+{
+	height: 5px;
+	width:90%;
+	background-color: #fff;
+	margin: 5% 0% 5% 5%;
+}
+h3{
+	margin-bottom:8%; 
+}
